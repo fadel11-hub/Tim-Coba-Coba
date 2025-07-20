@@ -23,8 +23,7 @@ Dataset Bahasa Indonesia dengan total **1.000 kalimat**:
 
 ## 🛠️ Teknologi
 - **Bahasa Pemrograman:** Python
-- **Library ML:** Whisper, HuggingFace Transformers, TensorFlow, librosa
-- **Tools:** Roboflow (dataset management), Pandas
+- **Library ML:** Whisper And TensorFlow
 
 ## 🎯 Tujuan Proyek
 Membantu pengguna smartphone agar dapat:
